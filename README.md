@@ -21,3 +21,8 @@ podman run -d \
 
   ## Agregar un package
   agregar en cargo.toml
+
+
+
+  ## Fotter y revision de derechos de autors
+  JMcabezas
